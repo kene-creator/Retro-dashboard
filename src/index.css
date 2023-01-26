@@ -22,3 +22,11 @@ body {
   width: 100%;
   grid-template-columns: 18rem auto;
 }
+
+.card_list:first-child {
+  @apply bg-red-500;
+}
+
+.maindash {
+  scrollbar-width: none;
+}

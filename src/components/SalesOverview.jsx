@@ -69,7 +69,7 @@ const SalesOverview = () => {
     <div className="h-[16rem] pb-6 pt-2 rounded-md box_shadow mt-3 bg-white w-[90%] mx-auto overflow-hidden">
       <div className="flex justify-between items-center mx-4 mb-0 pb-4 border-b border-[#12121224] ">
         <p className="text-[0.7rem] quicksand font-bold">Salse Overview</p>
-        <button class="bg-blue-500 text-white font-medium py-2 px-4 rounded-lg hover:bg-blue-600">
+        <button class="bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-medium py-2 px-4 rounded-lg hover:bg-blue-600">
           + Add Offer
         </button>
       </div>
