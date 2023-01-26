@@ -11,6 +11,11 @@ body {
   font-family: 'Quicksand', sans-serif;
 }
 
+.box_shadow {
+  box-shadow: rgba(83, 177, 248, 0.167) 0px 1px 2px 0px,
+    rgba(117, 190, 245, 0.084) 0px 1px 3px 1px;
+}
+
 .app {
   display: grid;
   height: 100vh;
