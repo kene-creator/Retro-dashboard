@@ -1,9 +1,11 @@
 import SideBar from './components/sideBar';
+import MainDash from './components/MainDash';
 
 function App() {
   return (
-    <div className="app bg-[#49d1f634]">
+    <div className="app">
       <SideBar />
+      <MainDash />
     </div>
   );
 }
