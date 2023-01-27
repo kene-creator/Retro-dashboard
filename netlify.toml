@@ -1,6 +1,7 @@
 [build]	
-    command = "npm run build"
-    build = "build"
+    command = "vite build"
+    functions = "netlify/functions"
+    publish = "dist
 
 [build.environment]	
     NODE_ENV = "development"	
