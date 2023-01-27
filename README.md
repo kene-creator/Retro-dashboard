@@ -12,7 +12,7 @@
 
 ## Live Link
 
-[Live](https://wasabi-ltd.netlify.app/)
+[Live](keystone-retro-dashboard.netlify.app)
 
 ## Getting Started
 
